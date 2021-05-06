@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comments for Qiwwix News	</title>
-	<atom:link href="http://192.168.1.116/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	Comments on: Lorem Ipsum	</title>
+	<atom:link href="http://192.168.1.116/lorem-ipsum/feed/" rel="self" type="application/rss+xml" />
+	<link>/lorem-ipsum/</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Thu, 06 May 2021 22:02:27 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 06 May 2021 22:00:01 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
